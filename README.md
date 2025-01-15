@@ -6,6 +6,9 @@ This repository contains a simple, work-in-progress web-based system for testing
 It currently consists of a backend implemented in Flask and is connected to a MongoDB database. 
 A frontend is anticipated according to the requirements, but not yet implemented.
 
+> [!CAUTION]
+> This is a toy system containing **seeded defects**! Do not use this code for production purposes.
+
 ## Structure
 
 This repository is structured as follows:
